@@ -1,16 +1,21 @@
-Learning.Highcharts.zh_CN
+[《Learning Highcharts》][packtpub_book]中文翻译
 =========================
 
-[《Learning Highcharts》][packtpub_book]中文翻译
+在highcarts的官方网站上推荐了一本书，由于highchart在平时工作中会用到，所以我们尝试将其翻译成中文，仅作为学习highchart工具的一种方式，以方便日后查阅。
 
-## 项目背景
-在highcarts的官方网站上推荐了一本书，由于highchart在平时工作中会用到，为了进一步学习highchart，所以我们决定将其尝试翻译成中文。
+_翻译图书作为学习笔记，再加上我们的慵懒和无知，难免存在错误，欢迎批评指正。_
 
-## 图书简介
-+ 详细介绍了将数据转化为既专业又美观的条形图、柱状图和饼图的方法和步骤。
-+ 介绍了创建图表的实用技巧。
+## 简介
+Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍了如何使用highcharts，包括： 
+ 
++ 如何一步步将数据转化为既专业又美观的条形图、柱状图和饼图的方法。
++ 创建图表的实用技巧。包括手册上没提及的内容，比如：图表布局策略，彩色阴影等等。
 + 如何集成Highcharts和jQuery Mobile/ExtJS4，以及如何在服务器端运行Highcharts。
 + 如何为数据选择正确的展示图表。
+
+> ### 关于作者与版权的说明
+> 首先，我们感谢原书作者[Joe Kuan][Joe_Kuan_wordpress]为我们提供了一本学习使用highcharts的优秀图书。  
+> 原书的出版发行商[Packt Publishing Ltd.][packtpub_website]声明保留全部权利（All rights reserved.）因此原书和此翻译文字的出版发行，都必须经过packtpub的书面许可。
 
 ## 目录
 （未开展） Preface   
@@ -30,3 +35,5 @@ Learning.Highcharts.zh_CN
 欢迎加入翻译和校对，也欢迎指导我们如何组织项目，
 
 [packtpub_book]:http://www.packtpub.com/learning-highcharts-for-javascript-data-visualization/book
+[packtpub_website]:http://www.packtpub.com
+[Joe_Kuan_wordpress]:http://joekuan.wordpress.com
