@@ -18,7 +18,7 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
 > 原书的出版发行商[Packt Publishing Ltd.][packtpub_website]声明保留全部权利（All rights reserved.）因此原书和此翻译文字的出版发行，都必须经过packtpub的书面许可。
 
 ## 目录
-（未开展） Preface   
+（已完成） [前言](book/00.Preface/00.00.00.Preface.md)
 （未开展） Chapter 1: Web Charts   
 （未开展） Chapter 2: Highcharts Configurations   
 （未开展） Chapter 3: Line, Area, and Scatter Charts   
@@ -32,7 +32,9 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
 （未开展） Chapter 11: Running Highcharts on the Server Side   
 
 ## 贡献者
-欢迎加入翻译和校对，也欢迎指导我们如何组织项目，
+欢迎加入翻译和校对，也欢迎指导我们如何组织项目。
+
++ [TopCaver](https://github.com/TopCaver)
 
 [packtpub_book]:http://www.packtpub.com/learning-highcharts-for-javascript-data-visualization/book
 [packtpub_website]:http://www.packtpub.com
