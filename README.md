@@ -18,10 +18,10 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
 > 原书的出版发行商[Packt Publishing Ltd.][packtpub_website]声明保留全部权利（All rights reserved.）因此原书和此翻译文字的出版发行，都必须经过packtpub的书面许可。
 
 ## 目录
- （已完成） [前言](book/00.Preface/00.00.00.Preface.md)  by [Zhang Bo](https://github.com/TopCaver)
- （进行中） Chapter 1: Web Charts	by [Zhang Bo](https://github.com/TopCaver)
- （进行中） Chapter 2: Highcharts Configurations  by [Paul Lu](https://github.com/luss613)
- （已完成） Chapter 3: Line, Area, and Scatter Charts  by [talentLiu](https://github.com/ljlok)
+ （已完成） [前言](book/00.Preface/00.00.00.Preface.md)  by [Zhang Bo](https://github.com/TopCaver)  
+ （进行中） Chapter 1: Web Charts	by [Zhang Bo](https://github.com/TopCaver)  
+ （进行中） Chapter 2: Highcharts Configurations  by [Paul Lu](https://github.com/luss613)  
+ （已完成） Chapter 3: Line, Area, and Scatter Charts  by [talentLiu](https://github.com/ljlok)  
  （未开展） Chapter 4: Bar and Column Charts   
  （未开展） Chapter 5: Pie Charts   
  （未开展） Chapter 6: Gauge, Polar, and Range Charts   
