@@ -18,7 +18,7 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
 > 原书的出版发行商[Packt Publishing Ltd.][packtpub_website]声明保留全部权利（All rights reserved.）因此原书和此翻译文字的出版发行，都必须经过packtpub的书面许可。
 
 ## 目录
- （已完成） [前言](book/00.Preface/00.00.00.Preface.md)  by [Zhang Bo](https://github.com/TopCaver)  
+ （已完成） [前言](book/00.Preface/00.00.Preface.md)  by [Zhang Bo](https://github.com/TopCaver)   
  （已完成） [Chapter 1](book/01.Web_Charts/01.00.Web_Charts.md): Web Charts	by [Zhang Bo](https://github.com/TopCaver)  
  （已完成） [Chapter 2](book/02.Highcharts_Configurations/02.00.Highcharts_Configurations.md): Highcharts Configurations  by [Paul Lu](https://github.com/luss613)  
  （已完成） [Chapter 3](book/03.Line_Area_and_Scatter_Charts/03.00.Line_Area_and_Scatter_Charts.md): Line, Area, and Scatter Charts  by [talentLiu](https://github.com/ljlok)  
@@ -26,7 +26,7 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
  （未开展） Chapter 5: Pie Charts   
  （未开展） Chapter 6: Gauge, Polar, and Range Charts   
  （未开展） Chapter 7: Highcharts APIs   
- （未开展） Chapter 8: Highcharts Events   
+ （进行中） [Chapter 8](book/08.Highcharts_Events/08.00.Highcharts_Events.md): Highcharts Events  by [talentLiu](https://github.com/ljlok)   
  （未开展） Chapter 9: Highcharts and jQuery Mobile   
  （未开展） Chapter 10: Highcharts and Ext JS   
  （未开展） Chapter 11: Running Highcharts on the Server Side   
