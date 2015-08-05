@@ -5,6 +5,8 @@
 
 _翻译图书作为学习笔记，再加上我们的慵懒和无知，难免存在错误，欢迎批评指正。_
 
+2015/08/05，更新：根据新版 [《Learning Highcharts 4》][packtpub_book]更新本项目。
+
 ## 简介
 Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍了如何使用highcharts，包括： 
  
@@ -24,12 +26,16 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
  （已完成） [Chapter 3](book/03.Line_Area_and_Scatter_Charts/03.00.Line_Area_and_Scatter_Charts.md): Line, Area, and Scatter Charts  by [talentLiu](https://github.com/ljlok)  
  （未开展） Chapter 4: Bar and Column Charts   
  （未开展） Chapter 5: Pie Charts   
- （未开展） Chapter 6: Gauge, Polar, and Range Charts   
- （未开展） Chapter 7: Highcharts APIs   
- （进行中） [Chapter 8](book/08.Highcharts_Events/08.00.Highcharts_Events.md): Highcharts Events  by [talentLiu](https://github.com/ljlok)   
- （未开展） Chapter 9: Highcharts and jQuery Mobile   
- （未开展） Chapter 10: Highcharts and Ext JS   
- （未开展） Chapter 11: Running Highcharts on the Server Side   
+ （未开展） Chapter 6: Gauge, Polar, and Range Charts  
+ （未开展） Chapter 7: Bubble, Box Plot, and Error Bar Charts  
+ （未开展） Chapter 8: Waterfall, Funnel, Pyramid, and Heatmap Charts  
+ （未开展） Chapter 9: 3D Charts    
+ （未开展） Chapter 10: Highcharts APIs     
+ （进行中） [Chapter 11](book/11.Highcharts_Events/11.00.Highcharts_Events.md): Highcharts Events  by [talentLiu](https://github.com/ljlok)   
+ （未开展） Chapter 12: Highcharts and jQuery Mobile   
+ （未开展） Chapter 13: Highcharts and Ext JS   
+ （未开展） Chapter 14: Running Highcharts on the Server Side  
+ （未开展） Chapter 15: Highcharts Online Services And Plugins
 
 ## 贡献者
 欢迎加入翻译和校对，也欢迎指导我们如何组织项目。
@@ -39,5 +45,6 @@ Highcharts是一个javascript的画图工具，《Learning Highcharts》介绍�
 + [Paul Lu](https://github.com/luss613)
 
 [packtpub_book]:http://www.packtpub.com/learning-highcharts-for-javascript-data-visualization/book
+[packtpub_book_4]:https://www.packtpub.com/big-data-and-business-intelligence/learning-highcharts-4
 [packtpub_website]:http://www.packtpub.com
 [Joe_Kuan_wordpress]:http://joekuan.wordpress.com
